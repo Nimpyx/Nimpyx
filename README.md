@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/mei_2b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto: rsocial.eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-guimar%C3%A3es-6843a0204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="right" width="157" height="157" alt="Mei" src="https://cdn.discordapp.com/attachments/865619620005675008/875793702877032468/Sem-titulo-3.gif">
+   <img align="right" width="155" height="155" alt="Mei" src="https://cdn.discordapp.com/attachments/865619620005675008/875793702877032468/Sem-titulo-3.gif">
     
 ##
     
