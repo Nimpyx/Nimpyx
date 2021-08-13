@@ -1,4 +1,4 @@
-# Olá, sou a Yasmin ⁕(●'◡'●)⁕
+# <center> Olá, sou a Yasmin ⁕(●'◡'●)⁕ </center>
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de constante evolução!! ╰(*°▽°*)╯
 <div>
   <a href="https://github.com/rafaballerini">
