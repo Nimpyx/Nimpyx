@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/yasmin-guimar%C3%A3es-6843a0204" target="_blank"> <img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/OwQ01rBpmU2D7VEgpQKbEw/linkedin.png"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
   <img align="right" width="155" height="155" alt="Mei" src="https://cdn.discordapp.com/attachments/865619620005675008/875793702877032468/Sem-titulo-3.gif">
-  <a href=""> <img height="45" width="45" src="https://lun-eu-assets.s3.eu-central-003.backblazeb2.com/6-qWwgM2HUKcRshL0nU0rQ/Ql456Sqg70OcCkEa0l3z3g/send-light.png" target="_blank"></a>
+  <a href="https://t.me/meizyx" target="_blank"> <img height="45" width="45" src="https://lun-eu-assets.s3.eu-central-003.backblazeb2.com/6-qWwgM2HUKcRshL0nU0rQ/Ql456Sqg70OcCkEa0l3z3g/send-light.png"></a>
    
 ##
     
