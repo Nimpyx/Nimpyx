@@ -13,7 +13,7 @@
   <div> 
   <a href="https://www.instagram.com/mei_2b/" target="_blank"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/oDwK4tHatU2XJBBybzxtrw/instagram.png"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
-  <a href="mailto: rsocial.eu@gmail.com"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/lDxTs8f1hEamqddhErRdDw/mail.png" target="_blank"></a>
+  <a href="mailto: yasmin.sg.2106@gmail.com"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/lDxTs8f1hEamqddhErRdDw/mail.png" target="_blank"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
   <a href="https://www.linkedin.com/in/yasmin-guimar%C3%A3es-6843a0204" target="_blank"> <img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/OwQ01rBpmU2D7VEgpQKbEw/linkedin.png"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
