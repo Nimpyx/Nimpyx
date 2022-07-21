@@ -11,7 +11,7 @@
  ##
   
   <div> 
-  <a href="#" target="_blank"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/oDwK4tHatU2XJBBybzxtrw/instagram.png"></a>
+  <a href="https://www.instagram.com/mei_2b/" target="_blank"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/oDwK4tHatU2XJBBybzxtrw/instagram.png"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
   <a href="mailto: yasmin.sg.2106@gmail.com"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/lDxTs8f1hEamqddhErRdDw/mail.png" target="_blank"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
@@ -26,4 +26,5 @@
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 </div>
