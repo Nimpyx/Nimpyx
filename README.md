@@ -1,10 +1,10 @@
-# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                    ⠀   ⠀⠀⠀Hiii ⁕(●'◡'●)⁕ 
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                                ⠀   ⠀⠀⠀Hiii ⁕(●'◡'●)⁕ 
 ⠀⠀⠀⠀⠀⠀Greetings, I am Yasmin, 20 years old, I'm a coding languages student and im hoping to improve my coding!! ╰(*°▽°*)╯
 <div>
   <a href="https://github.com/MeiN0x">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MeiN0x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="173em" src="https://github-readme-stats.vercel.app/api?username=MeiN0x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiN0x&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiN0x&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ![Snake animation](https://github.com/MeiN0x/MeiN0x/blob/output/github-contribution-grid-snake.svg)
