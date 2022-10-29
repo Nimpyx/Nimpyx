@@ -1,5 +1,5 @@
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                                ⠀  ⠀⠀⠀Hiii everyone!!!! ⁕(●'◡'●)⁕ 
-⠀⠀⠀⠀⠀⠀Greetings, I am Yasmin, 20 years old, i'm a systems analysis student and I'm hoping to improve my coding!!!! ╰(*°▽°*)╯
+⠀⠀⠀⠀⠀⠀Greetings, I am Yasmin, 20 years old, I'm a systems analysis student and I'm hoping to improve my coding!!!! ╰(*°▽°*)╯
 <div>
   <a href="https://github.com/MeiN0x">
   <img height="172em" src="https://github-readme-stats.vercel.app/api?username=MeiN0x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
