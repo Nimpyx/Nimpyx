@@ -18,8 +18,7 @@
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
   <a href="https://t.me/meizyx" target="_blank"> <img height="45" width="45" src="https://lun-eu-assets.s3.eu-central-003.backblazeb2.com/6-qWwgM2HUKcRshL0nU0rQ/Ql456Sqg70OcCkEa0l3z3g/send-light.png"></a>
    
-##
-    
+##  
    <div style="display: inline_block" align="center"><br>
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
