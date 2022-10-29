@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/MeiN0x">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=MeiN0x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="163em" width="500"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiN0x&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="163em" width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiN0x&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ![Snake animation](https://github.com/MeiN0x/MeiN0x/blob/output/github-contribution-grid-snake.svg)
