@@ -11,20 +11,20 @@
   
  ##
   
-  <div style="display: flex" align="center"> 
+<div style="display: flex" align="center"> 
   <a href="https://www.instagram.com/mei_2b/" target="_blank"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/oDwK4tHatU2XJBBybzxtrw/instagram.png"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
   <a href="mailto: yasmin.sg.2106@gmail.com" target="_blank"><img height="45" width="45" src="https://lun-eu.icons8.com/a/6-qWwgM2HUKcRshL0nU0rQ/lDxTs8f1hEamqddhErRdDw/mail.png" target="_blank"></a>
   <img height="45" width="20" src="https://cdn.discordapp.com/attachments/865614304446119966/902940385511374858/y4.png">
   <a href="https://t.me/meizyx" target="_blank"> <img height="45" width="45" src="https://lun-eu-assets.s3.eu-central-003.backblazeb2.com/6-qWwgM2HUKcRshL0nU0rQ/Ql456Sqg70OcCkEa0l3z3g/send-light.png"></a>
+</div>
    
 ##  
-   <div style="display: inline_block" align="center"><br>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" height="75" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-          
-
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
+  <img align="center" height="75" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/> 
 </div>
