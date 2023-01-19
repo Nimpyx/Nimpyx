@@ -3,10 +3,10 @@
 
 <div style="display: flex" align="center" align-items='center'>
   <a href="https://github.com/MeiN0x">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=MeiN0x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiN0x&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=MeiN0x&count_private=true&theme=cobalt"/>
+  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt"/>
 </div>
-  
+
 ![Snake animation](https://github.com/MeiN0x/MeiN0x/blob/output/github-contribution-grid-snake.svg)
   
  ##
